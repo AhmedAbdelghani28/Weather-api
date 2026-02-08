@@ -64,7 +64,7 @@ Controller  →  Service  →  Repository  →  MySQL
 ## 1️ Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/AhmedAbdelghani28/Weather-api>
 cd weather
 ```
 
